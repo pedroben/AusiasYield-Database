@@ -6,32 +6,9 @@
 -- 
 -- --------------------------------------------------------
 
--- phpMyAdmin SQL Dump
--- version 4.0.5
--- http://www.phpmyadmin.net
---
--- Servidor: localhost:3306
--- Tiempo de generación: 31-10-2013 a las 05:11:48
--- Versión del servidor: 5.5.32
--- Versión de PHP: 5.4.19
-
-SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
-SET time_zone = "+00:00";
-
-
-/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
-/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
-/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8 */;
-
---
--- Base de datos: `facturacion`
---
-
--- --------------------------------------------------------
-
 --
 -- Estructura de tabla para la tabla `profesor`
+-- Pedro Benito Soria
 --
 
 CREATE TABLE IF NOT EXISTS `profesor` (
